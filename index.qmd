@@ -3,7 +3,7 @@ title: "Gayatri Kulkarni"
 image: images/uav_lidar.png
 about:
   template: trestles
-  image-width: 20em
+  image-width: 30em
   links: 
     - icon: linkedin
       text: LinkedIn
@@ -19,4 +19,4 @@ about:
       href: mailto:gayatrik@student.ubc.ca
 ---
 
-Graduate Student | Master's in Geomatics for Environmental Management | University of British Columbia
+Currently a Graduate Student pursuing Master's in Geomatics for Environmental Management at University of British Columbia.
