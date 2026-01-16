@@ -1,9 +1,9 @@
 project:
   type: website
-  output-dir: C:/Users/melser/Documents/GitHub/E-Portfolio
+  output-dir: C:\Users\gayatrik.stu\OneDrive - UBC\Documents\MGEM\FCOR 599\Assignments\Github- 599\E-Portfolio
 
 website:
-  title: "Your E-Portfolio"
+  title: "Gayatri Kulkarni"
   navbar:
     left:
       - href: index.qmd
